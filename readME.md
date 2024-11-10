@@ -59,9 +59,9 @@ The program expects the following inputs:
 
 ## Example Input
 
-4
-3 5 2 6
-10 10 15 12
-RDRD
+- 4
+- 3 5 2 6
+- 10 10 15 12
+- RDRD
 
 Output: [14]
