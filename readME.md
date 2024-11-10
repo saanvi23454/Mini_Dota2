@@ -58,6 +58,7 @@ The program expects the following inputs:
 4. **Team string**: A string of characters ('R' for Radiant, 'D' for Dire) where each character indicates the team of the corresponding hero.
 
 ## Example Input
+(each on newline)
 
 - 4
 - 3 5 2 6
