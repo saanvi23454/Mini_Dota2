@@ -57,7 +57,7 @@ The program expects the following inputs:
 3. **Health array**: A 0-indexed array of integers where each value represents the health of a hero.
 4. **Team string**: A string of characters ('R' for Radiant, 'D' for Dire) where each character indicates the team of the corresponding hero.
 
-## Example Input
+## Example TestCase
 (each on newline)
 
 - 4
