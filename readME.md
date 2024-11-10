@@ -57,3 +57,11 @@ The program expects the following inputs:
 3. **Health array**: A 0-indexed array of integers where each value represents the health of a hero.
 4. **Team string**: A string of characters ('R' for Radiant, 'D' for Dire) where each character indicates the team of the corresponding hero.
 
+## Example Input
+
+4
+3 5 2 6
+10 10 15 12
+RDRD
+
+Output: [14]
